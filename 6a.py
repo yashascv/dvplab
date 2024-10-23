@@ -11,7 +11,7 @@ plt.plot(x,y1,'red',x,y2,'green',x,y3,'blue')
 plt.legend(['x','square x','sqrt x'])
 plt.xticks(x)
 plt.yticks(y2)
+plt.xlabel("xaxis",fontsize=12)
+plt.ylabel("yaxis",fontsize=12)
 plt.title("Linear-yashas-1KI23CS185")
 plt.show()
-
-
